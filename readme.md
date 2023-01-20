@@ -1,20 +1,9 @@
-1. Criar ambiente virtual
-```bash
-python -m venv venv
-```
+# Stock Management Backend Project
 
-2. Ativar seu venv:
-```bash
+## Technologies Used
+- [Django](https://www.djangoproject.com/) - A high-level Python web framework
+- [Python](https://www.python.org/) - A programming language that lets you work quickly and integrate systems more effectively
+- [Django Rest Framework](https://www.django-rest-framework.org/) - A powerful and flexible toolkit for building Web APIs
 
-# linux:
-source venv/bin/activate
-
-# windows:
-.\venv\Scripts\activate
-```
-
-3. com o seu ambiente venv ativado
-instalar requirements.txt
-```bash
-pip install -r requirements.txt
-```
+## Project Description
+This project is a backend system for managing stock levels and inventory for a business. It uses the Django web framework and the Django Rest Framework to build a RESTful API for managing stock data. The system allows for the creation, reading, updating, and deletion of stock items.
