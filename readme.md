@@ -8,7 +8,7 @@ This project is a backend system for managing stock levels and inventory for a b
 - [Python](https://www.python.org/)
 - [Django Rest Framework](https://www.django-rest-framework.org/)
 
-# Instalação
+## Instalação
  1. Criar ambiente virtual
 ```bash
 python -m venv venv
